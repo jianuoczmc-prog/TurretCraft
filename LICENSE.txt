@@ -1,0 +1,15 @@
+TurretCraft Custom License (All Rights Reserved with Modpack Permission)
+Copyright (c) CZ
+
+Permission is granted to:
+1) Play the mod and share screenshots/videos/streams featuring the mod.
+2) Include the unmodified mod JAR in modpacks ONLY if the modpack links back to the official download page
+   (Modrinth and/or this GitHub repository) and does not re-upload the file elsewhere.
+
+You may NOT:
+1) Re-upload, mirror, or redistribute this mod (JAR or assets) on any site or platform without written permission.
+2) Claim ownership, remove the 【cz】 nameplate, or rebrand the mod.
+3) Distribute modified versions, forks, or derivative works of this mod.
+4) Sell the mod or its assets, or charge money for access to the mod itself.
+
+This license may be updated by the author. The latest license on the official page applies.
