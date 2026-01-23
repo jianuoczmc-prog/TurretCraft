@@ -1,15 +1,113 @@
-TurretCraft Custom License (All Rights Reserved with Modpack Permission)
-Copyright (c) CZ
+TurretCraft Custom License v1.0 (All Rights Reserved + Limited Permissions)
+Copyright (c) 2026 CZ
+Project: TurretCraft (Minecraft Forge Mod)
 
-Permission is granted to:
-1) Play the mod and share screenshots/videos/streams featuring the mod.
-2) Include the unmodified mod JAR in modpacks ONLY if the modpack links back to the official download page
-   (Modrinth and/or this GitHub repository) and does not re-upload the file elsewhere.
+English (Authoritative)
+=======================
+All rights reserved unless explicitly granted below.
 
-You may NOT:
-1) Re-upload, mirror, or redistribute this mod (JAR or assets) on any site or platform without written permission.
-2) Claim ownership, remove the 【cz】 nameplate, or rebrand the mod.
-3) Distribute modified versions, forks, or derivative works of this mod.
-4) Sell the mod or its assets, or charge money for access to the mod itself.
+1) You MAY:
+   a) Use this mod for personal play, LAN, and servers.
+   b) Create and share screenshots, videos, and livestreams featuring this mod,
+      including monetized content (e.g., YouTube, Twitch, Bilibili).
+   c) Include this mod in modpacks, provided ALL conditions below are met:
+      - The mod JAR is UNMODIFIED (no code/asset edits, no repackaging).
+      - You give clear credit to the author "CZ" and include a link to the official
+        project page (Modrinth and/or CurseForge) in the modpack description/readme.
+      - You do NOT claim the mod as your own.
+      - You do NOT sell the mod itself. Do not place the mod file behind a paywall.
+        (Charging for the whole pack is only allowed if the mod file remains freely
+        accessible from the official page and you do not restrict access to the mod.)
+      - If your platform supports manifest-based downloads (recommended), you should
+        reference the official download instead of reuploading the JAR.
 
-This license may be updated by the author. The latest license on the official page applies.
+2) You MAY NOT:
+   a) Modify, remix, adapt, or create derivative works of this mod (code or assets).
+   b) Decompile, reverse engineer, or attempt to extract source/logic from the mod.
+   c) Reupload this mod as a standalone download anywhere, even for free.
+      (Exception: allowed as part of a compliant modpack in section 1c.)
+   d) Distribute modified builds, forks, or ports to other modloaders/versions.
+   e) Use the mod name, logo, textures, or branding to impersonate the author.
+
+3) Termination
+   Any violation of this license immediately terminates your granted permissions.
+
+4) Disclaimer
+   This mod is provided "AS IS", without warranty of any kind. The author is not
+   liable for any damages arising from its use.
+
+5) Translation Notice
+   The following translations are provided for convenience only. If there is any
+   conflict or ambiguity, the English text above controls.
+
+
+简体中文（参考译文）
+===================
+除以下明确授权外，保留一切权利。
+
+你可以：
+- 个人/联机/服务器使用本模组；
+- 制作并发布包含本模组的截图、视频、直播（包括盈利）；
+- 将本模组收录进整合包/模组包，但必须同时满足：
+  1) 模组 JAR 不得修改（代码/材质/资源均不允许改动与重打包）；
+  2) 在整合包说明/README 中明确署名作者“CZ”，并附上官方项目页链接（Modrinth/CurseForge）；
+  3) 不得冒充作者、不得宣称为自己作品；
+  4) 不得售卖模组本体或将模组文件设为付费墙后内容；
+  5) 推荐使用清单/manifest 方式从官方页面下载，而不是重新上传 JAR。
+
+你不可以：
+- 反编译、逆向、提取源代码/逻辑；
+- 修改后再发布、发布分支/移植版/改版；
+- 将本模组作为“单独下载”重新上传到任何地方（整合包合规收录除外）；
+- 使用名称/图标/材质等冒充作者。
+
+如违反，上述授权立即终止。模组按“原样”提供，作者不承担任何责任。
+如中英文有冲突，以英文为准。
+
+
+繁體中文（參考譯文）
+===================
+除以下明確授權外，保留一切權利。
+
+你可以：
+- 個人/連線/伺服器使用本模組；
+- 製作並發布包含本模組的截圖、影片、直播（可盈利）；
+- 將本模組收錄進整合包/模組包，但必須同時滿足：
+  1) 模組 JAR 不得修改（程式/材質/資源皆不允許改動與重打包）；
+  2) 在整合包說明/README 中清楚署名作者「CZ」，並附上官方專案頁連結（Modrinth/CurseForge）；
+  3) 不得冒充作者、不得宣稱為自己作品；
+  4) 不得販售模組本體或將模組檔案設為付費牆內容；
+  5) 建議使用清單/manifest 從官方頁面下載，而非重新上傳 JAR。
+
+你不可以：
+- 反編譯、逆向、提取原始碼/邏輯；
+- 修改後再發布、發布分支/移植版/改版；
+- 將本模組作為「單獨下載」重新上傳到任何地方（合規整合包收錄除外）；
+- 使用名稱/圖示/材質等冒充作者。
+
+如違反，上述授權立即終止。模組按「原樣」提供，作者不負任何責任。
+如與英文衝突，以英文為準。
+
+
+日本語（参考訳）
+================
+以下で明示的に許可された場合を除き、すべての権利は作者が留保します。
+
+許可されること：
+- 個人プレイ／LAN／サーバーでの使用
+- 本MODを含むスクリーンショット、動画、配信（収益化を含む）
+- MODパックへの収録（ただし条件をすべて満たすこと）：
+  1) MOD JAR は改変しない（コード／アセット／再パッケージ不可）
+  2) 作者「CZ」のクレジットと公式ページ（Modrinth/CurseForge）へのリンクを明記
+  3) 作者を騙る行為、自己作品として主張しない
+  4) MOD本体の販売や、MODファイルをペイウォールの背後に置かない
+  5) 可能なら公式からのmanifest参照ダウンロードを推奨
+
+禁止されること：
+- 逆コンパイル、リバースエンジニアリング、ソース/ロジックの抽出
+- 改変版・派生版・移植版の配布
+- MOD単体の再配布（合規なMODパック収録を除く）
+- 名称／ロゴ／アセット等を用いたなりすまし
+
+違反した場合、許可は直ちに失効します。本MODは現状有姿で提供され、作者は責任を負いません。
+英語版が優先されます。
