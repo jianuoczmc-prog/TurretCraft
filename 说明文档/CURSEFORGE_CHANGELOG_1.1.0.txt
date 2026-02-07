@@ -1,0 +1,49 @@
+# CurseForge — Changelog for v1.1.0 (from v1.0.0)
+
+## English
+
+### Highlights
+
+- Turret Upgrade System (levels + upgrade slots + Upgrade action).
+- New items: Turret Firmware (x2 recipe) + Turret Manual (Book + Firmware).
+- GUI now shows Level/Damage/Cooldown/Ammo Save; new tooltips + new GUI textures/icons.
+- Added Traditional Chinese (zh_tw).
+- Projectile entity spawning improved via NetworkHooks (multiplayer).
+
+---
+
+## 简体中文
+
+### 要点
+
+- 新增炮塔升级系统（等级 + 升级槽 + GUI 升级）。
+- 新增物品：炮塔固件（配方产出2个）与炮塔说明书（书+固件）。
+- GUI 新增等级/伤害/冷却/省弹显示；新增提示与贴图/图标。
+- 新增繁体中文（zh_tw）。
+- 弹丸实体生成封包改为 NetworkHooks（多人更稳）。
+
+---
+
+## 日本語
+
+### ハイライト
+
+- タレットのアップグレード機能（レベル + 6枠 + Upgrade 操作）。
+- 新アイテム：タレットファームウェア（2個）／タレットマニュアル（本+ファームウェア）。
+- GUIにレベル/ダメージ/クールダウン/弾薬節約を追加。テクスチャ/アイコンも追加。
+- 繁體中文（zh_tw）追加。
+- 弾丸エンティティのスポーンが NetworkHooks 経由に（マルチ向け）。
+
+---
+
+## 繁體中文
+
+### 重點
+
+- 新增砲塔升級系統（等級 + 升級槽 + GUI 升級）。
+- 新增物品：砲塔韌體（配方產出2個）與砲塔說明書（書+韌體）。
+- GUI 新增等級/傷害/冷卻/省彈顯示；新增提示與貼圖/圖示。
+- 新增繁體中文（zh_tw）。
+- 彈丸實體生成封包改為 NetworkHooks（多人更穩）。
+
+---
