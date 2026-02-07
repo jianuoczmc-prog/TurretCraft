@@ -1,0 +1,41 @@
+# CurseForge — Changelog for v1.1.1 (from v1.1.0)
+
+## English
+
+### Highlights
+
+- Fixed turret level being lost after dismantling.
+- Fixed dismantle material/upgrade refund not being returned correctly.
+- Dismantle flow now properly preserves progression and refunds expected resources.
+
+---
+
+## 简体中文
+
+### 要点
+
+- 修复炮台拆除后等级丢失。
+- 修复拆除时升级/材料返还异常。
+- 拆除流程现在会正确保留进度并返还应返还资源。
+
+---
+
+## 日本語
+
+### ハイライト
+
+- タレット撤去後にレベルが消失する不具合を修正。
+- 撤去時の素材/アップグレード返還不具合を修正。
+- 進行状態保持と返還処理が正しく行われるよう改善。
+
+---
+
+## 繁體中文
+
+### 重點
+
+- 修復砲台拆除後等級遺失問題。
+- 修復拆除時升級/材料返還異常。
+- 拆除流程現在會正確保留進度並返還應返還資源。
+
+---
