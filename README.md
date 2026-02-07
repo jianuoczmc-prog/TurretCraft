@@ -13,6 +13,8 @@ Place turrets, load ammo, and protect your base with smooth aiming and firing an
 ## Latest Update
 - **v1.1.1**: Fixed turret dismantle behavior (level is preserved and materials/upgrades are refunded correctly).
 
+- Release docs index: [`说明文档/README.md`](./说明文档/README.md)
+
 ## Features (EN)
 - **Multiple turrets** for base defense (more coming).
 - **Turret GUI**: check ammo, change target mode, unload ammo.
