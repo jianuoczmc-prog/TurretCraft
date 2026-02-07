@@ -10,6 +10,9 @@ Place turrets, load ammo, and protect your base with smooth aiming and firing an
 
 ---
 
+## Latest Update
+- **v1.1.1**: Fixed turret dismantle behavior (level is preserved and materials/upgrades are refunded correctly).
+
 ## Features (EN)
 - **Multiple turrets** for base defense (more coming).
 - **Turret GUI**: check ammo, change target mode, unload ammo.
@@ -64,6 +67,8 @@ If you want special permission (e.g., translations, ports, or curated modpack di
 # 炮台工坊 TurretCraft（Forge 1.20.1）【简体中文】
 
 一个轻量的 Minecraft Forge 1.20.1 炮台模组：放置炮台、装填弹药、自动索敌，守护你的基地，并带更顺滑的瞄准/开火动画。
+
+**最新版本 v1.1.1**：修复炮台拆除后等级丢失，并修复拆除时材料/升级返还异常。
 
 > **官方发布页（仅限从这里下载）**
 > - Modrinth：（在这里填你的 Modrinth 链接）
@@ -123,6 +128,8 @@ If you want special permission (e.g., translations, ports, or curated modpack di
 # 砲台工坊 TurretCraft（Forge 1.20.1）【繁體中文】
 
 一個輕量的 Minecraft Forge 1.20.1 砲台模組：放置砲台、裝填彈藥、自動索敵，守護你的基地，並帶更順滑的瞄準/開火動畫。
+
+**最新版本 v1.1.1**：修復砲台拆除後等級遺失，並修復拆除時材料/升級返還異常。
 
 > **官方發布頁（僅限從這裡下載）**
 > - Modrinth：（在此填入你的 Modrinth 連結）
